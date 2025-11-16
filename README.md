@@ -1,1 +1,3 @@
-# template_stm32f4_lcd1602
+# template_stm32f4_discovery
+
+...
