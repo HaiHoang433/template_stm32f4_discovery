@@ -1,6 +1,6 @@
 # 1. STM32F4 Discovery with LCD 1602 I2C Display
 
-## 1.1. Objectives
+## 1.1. Deliverables
 
 - We want to display the string from microcontroller to LCD 1602
 - Debug: Test the display action using SWV ITM Data Console.
@@ -104,5 +104,6 @@ Just `printf` just like a normal C code. Result will appears in SWV ITM Data Con
     - `LCD_Print(&lcd, "Hello world!");`: ...
 
 ## 1.8. Video
+
 
 [Insert video here...] as a proof of a successful hardware run.
