@@ -81,6 +81,8 @@ Just `printf` just like a normal C code. Result will appears in SWV ITM Data Con
 
 ## 1.7. Code
 
+**AFTER auto-code-generation from 1.5. Configure .ioc in STM32CubeIDE,**
+
 ### 1.7.1. Adding Necessary Libraries
 
 - Add liquidcrystal_i2c.h inside Core/Inc folder.
@@ -107,3 +109,4 @@ Just `printf` just like a normal C code. Result will appears in SWV ITM Data Con
 
 
 [Insert video here...] as a proof of a successful hardware run.
+
